@@ -10,7 +10,7 @@ A software developer from Brazil
 #### 🌱 Things I am currently working on:
 - Finish my Multiplataform Software Development Degree 🖥️
 - Currently studying Data Science and Algoriths 🎲
-- Being a monster in volleyball 🏐
+- Becoming a beast in volleyball 🏐
 
 #### ⌨️ Programming languages and tools:
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
