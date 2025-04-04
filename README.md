@@ -1,7 +1,7 @@
 ## Hey, you can call me Turtoga 🥸
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/turtoga)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([https://br.linkedin.com/in/gabriel-almeida-79a43126b])
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://br.linkedin.com/in/gabriel-almeida-79a43126b)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:bielalmeida.dev@gmail.com)
 <img align="right" alt="img" src="https://i.pinimg.com/736x/63/25/10/632510e53b3ae17f36993d7993c9fe8f.jpg" width="40%" height="auto" />
 
