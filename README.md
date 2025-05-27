@@ -29,4 +29,5 @@ A software developer from Brazil
 ![image](https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9)
 
 #### 🙀 Github Status:
-![turtoga's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=turtoga&theme=dark&show_icons=true&hide_border=true&layout=compact)
+![turtoga's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=turtoga&theme=dark&show_icons=true&hide_border=true&layout=compact&hide=jupyter,handlebars)
+
