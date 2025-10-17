@@ -8,7 +8,6 @@ A software developer from Brazil :blue_square::yellow_square::green_square:
 
 #### 🌱 Things I am currently working on:
 - Finish my Multiplataform Software Development Degree 🖥️
-- Currently studying Data Science and Algoriths 🎲
 - Becoming a beast in volleyball 🏐
 
 #### ⌨️ Programming languages and tools:
